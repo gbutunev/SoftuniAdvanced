@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace E4_8_CustomComparator
+namespace E5_8_CustomComparator
 {
     class Program
     {
