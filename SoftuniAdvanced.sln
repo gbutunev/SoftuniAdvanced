@@ -237,6 +237,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L1_4_RandomList", "OOP1_Inh
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L1_5_StackOfStrings", "OOP1_Inheritance\L1_5_StackOfStrings\L1_5_StackOfStrings.csproj", "{98C76C76-D63B-4C3E-9192-E3531AAC045E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7FF9BBA3-6F26-42EF-8836-7FF18A0C66E3}"
+	ProjectSection(SolutionItems) = preProject
+		TextFile1.txt = TextFile1.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
